@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DavidLeonardoGutierrez
-- 👀 I'm interested in writing good code and infrastructure, using the latest engineering practices and trying get some fun at once. In my free time I do nature photography.
+- 👀 I'm interested in writing good code and infrastructure, using the latest engineering practices and trying to get some fun at once. In my free time I do nature photography.
 - 🌱 I’m currently learning devops, mostly azure and dotnet core.
 - 📫 You can reach me through my email david.leonardo.gutierrez@gmail.com
